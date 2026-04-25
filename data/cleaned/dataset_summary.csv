@@ -1,0 +1,4 @@
+dataset,rows_after_cleaning,avg_word_count
+landforms,532,94.65413533834587
+climate,358,94.3268156424581
+gutenberg,903,111.04983388704319
